@@ -2,6 +2,7 @@
 title: "Rattlesnake Flat and Reid Neilson Draw"
 date: "2023-04-07"
 description: "Wandering around the San Rafael Recreation Area on Easter Weekend"
+draft: true
 ---
 
 I'm good at avoiding social engagements. It is all the easier when you have a hobby that can take you far away into the wilderness. On Easter Weekend I put this expertise into play and ended up touring a portion of the San Rafael Swell Recreation Area located in central Utah.
