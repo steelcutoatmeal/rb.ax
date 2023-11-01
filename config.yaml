@@ -1,0 +1,57 @@
+baseurl: https://rb.ax/
+languageCode: en-us
+title: Ryan Bagley
+preserveTaxonomyNames: true
+footnotereturnlinkcontents: ↩
+disableHugoGeneratorInject: true
+pluralizeListTitles: false
+pygmentsCodeFences: false
+pygmentsUseClasses: false
+enableRobotsTXT: false
+enableEmoji: true
+minify: true
+paginate: 9999
+preserveTaxonomyNames: true
+disableKinds:
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  blog: /:filename
+
+params:
+  description: The homepage of network engineer and documentarian Ryan Bagley — internet networks, running, photography, and adventure sharing.
+  subtitle: 
+  author: Ryan Bagley
+  copyright: Ryan Bagley
+  ShowDatesonPosts: true
+
+frontmatter:
+  author: Ryan Bagley
+  description: 
+  sitename: Ryan Bagley
+
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.9
+
+outputFormats:
+  RSS:
+    mediatype: application/rss
+    baseName: atom
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true
+  instagram:
+    disable: true
+  twitter:
+    disable: true
+  vimeo:
+    disable: true
+  youtube:
+    disable: true
