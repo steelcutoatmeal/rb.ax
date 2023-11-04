@@ -1,7 +1,8 @@
 ---
-title: "Starting the electrical foundation of my 4Runner"
+title: "Starting the Electrical Foundation of my 4Runner"
 date: "2022-01-18"
 description: "Installing the Switch Pros SP-9100, SD Offroad Mount Tray, and ARB Twin Compressor in a 2021 4Runner"
+tags: ['4runner']
 ---
 
 As a fair warning to readers, this guide is not meant as a step by step instruction replacement. I sincerely recommend consulting each product's installation guide as a source of definitive information. Please consider this article as more of a personal review and collection of tips for these products.
@@ -48,7 +49,7 @@ To bring all three items together required a not so common vehicle bay mount. Th
 
 ## Assembling
 
-{{< img src="sp2.webp" alt="Switch Pro 2" >}}
+{{< image src="sp2.webp" caption="Wiring the Switch Pro while mounted" >}}
 
 For your own sanity and the sanity of anyone you reside with it would be best to lay all components out on a flat work bench or kitchen table. Cabling and assembling everything in the engine bay would be a monumentally painful endeavor. I plopped my stuff down on the kitchen counter for a few weeks and spent some time here and there when I got the chance. However, if you have experience with wiring and aren't adding any custom sleeving it would be rather easy to assemble it all in a few hours. The biggest time sink during my install was the custom sleeving, applying red heat shrink tubing, and labelling all sides of the cable terminations. In retrospect I would have forgone the custom sleeving but done everything else identically. The black nylon sleeves certainly gave a great look but for the time spent I don't think it was worth it. My motivation was from this wizard that [made it look like a high end custom gaming computer](https://www.instagram.com/p/CNMFnJtH-cB/).
 
@@ -58,7 +59,7 @@ To kick off the installation and guide us for the rest of the installation is to
 
 Using a bus bar for our 8 switches isn't electrically helpful but it creates a semi-permanent and modular system for completing our electrical connections. The connection from the SP-9100 is intended to be semi-permanent and static while the other side of the bus bar connections are modular. This way you don't have to fiddle with the SP-9100 side of the bus bar when future projects dictate different needs. You can simply disconnect the other side of the bus bar and move things as needed. This comes at a cost of introducing a point in your electrical system to environmental degradation and connection issues. If you already have a permanent system configuration planned out it would be much better to directly connect your devices directly to the SP-9100 and forego the bus bar entirely. Switch-Pros even advises this on their website[^2]. But if you are like me and have a ever changing outlook on your modification endgame it is incredible helpful to have the modularity of a bus bar.
 
-{{< img src="sp3.webp" alt="Switch Pro 3" >}}
+{{< image src="sp3.webp" caption="Labels for each Switch Pro connection" >}}
 
 The current capacity for each of the 8 switches of the SP-9100 is outlined in the list below. Switches 1-4 are limited to 18A while 5-8 have a larger 35A capacity. These values are purely maximum and can be adjusted in the SP-9100 mobile application. As an example, on switch 1, my connected device is the trigger wire for my ARB twin air compressor and it is rated down to 5A. The trigger wire is basically an on/off switch for the compressor and doesn't need any more current. There are many more features the SP-9100 can do such as strobe, 10% light output dimming, and a variety of trigger actions[^3]. Another convenient thing about using the SP-9100 is that the fuses are built inline within the device. So you can connect all of your devices directly into the SP-9100 without those bulky inline fuses. The only catch is that if you exceed 85% of the switch load and you can't move to a higher capacity switch they do recommend adding a relay or fuse inline[^4].
 
@@ -83,7 +84,7 @@ For the higher amperage switches from 5-8 you can simply twist both copper stran
 
 Based on the guide from SD Offroad there are several cycles of putting the mount tray in your engine bay and removing it for adjustments. While these steps seem useless when you could simply pop the tray in one go they are actually a measured approach to make the install easier. The incremental approach helps the installer make the required fitment adjustments as you go along while specific screws or support brackets are easily reachable rather than at an inverted right angle with only an inch of clearance. I was a bit pigheaded and did the install in many fewer steps and in the end I paid my time and frustration tax. Its almost as if guides are meant to make things easier. Somehow my logical reaction is to completely avoid the instructional guidelines since I know best. Spoiler: I don't.
 
-{{< img src="sp4.webp" alt="OEM engine bay" >}}
+{{< image src="sp4.webp" caption="OEM engine bay" >}}
 
 ### Pre-Installation
 
@@ -95,7 +96,7 @@ Another preparation required before getting the tray installed would be to run t
 
 After these items are taken care of you can loosely install the tray. Make sure to coat the bottom leg support bolts with anti-seize lubricant since they exit directly within the wheel well. They will be directly exposed to the harshest conditions you'll be driving in. The bolts also might be a bit firm when screwing them in for the first time but that is just the OEM plugs being forced out. When checking hood clearance for the tray it is a bit tricky to see if things are bashing into each other. I stuck my phone into the engine bay while taking a video and closing the hood in order to get an idea of physical clearance. My 2021 model has a fire retardant fabric on the bottom of the hood and is slightly pressed against by the vertical ARB compressor coupling. There are ways to modify the angle of the coupling mount on the ARB but I didn't think it was necessary with my minimal amount of contact. I have seen other kinds of couplings, such as pure brass right angle hardware that might better fit in your intended setup.
 
-{{< img src="sp5.webp" alt="Checking clearance" >}}
+{{< image src="sp5.webp" caption="Checking clearance for the hood" >}}
 
 One last point involves skipping the rivet installation for the mount tray. While the SD Offroad installation includes this as a step during installation I found that the mount tray was stable enough with all the other hardware to not warrant putting in the rivet. This might change after the physical stress of traversing over several thousand miles of washboard roads over the next year or two but I will monitor it closely, as I do with all my other bolted on modifications. Another reason for not installing the rivet was just avoiding an extra bolt to take out in case any access to the engine bay fuse box is needed. This is a minor reason and would only amount to saving a minute or two down the line.
 
@@ -105,7 +106,7 @@ One last point involves skipping the rivet installation for the mount tray. Whil
 
 This compressor is fast but requires two 40A connections. This exceeds the maximum draw of even the larger capacity switches on the SP-9100 so you have to power it directly from the battery. I accomplished this by wiring both 40A connection to the SafetyHub 150 with a 40A MIDI fuse for each. This involved heavily re-working the supplied wire harness from ARB and chopping out the blocky inline fuses. But such a clean up is my whole reason for this electrical foundation. I could shorten the wire harness to a respectable length to avoid wire spaghetti and also using the SafteyHub 150 as intended. You can still use your SP-9100 to turn it off and on by simply connecting the ARB's trigger wire. Credit here to SR5Camper on the tundras.com forums[^5] for the great idea of both cleaning up the ARB wiring harness and also involving the SP-9100 for triggering the ARB.
 
-{{< img src="sp10.webp" alt="Wires Everywhere" >}}
+{{< image src="sp10.webp" caption="Getting everything arranged is quite a challenge. Especially with the larger gauge wires." >}}
 
 ### Add-a-Fuse Circuit Tap
 
@@ -119,13 +120,13 @@ The next step would be to review your available fuses and tap a non-critical ser
 
 The methodology for selecting my fuse tap locations can be demonstrated in the previously linked video. The basic summary is to find the type of power going to a fuse and thereafter identifying the positive and negative side of the rail. Your car's electronics are powered by three separate types of power. The first is switched power that is provided when the vehicle is actually running the engine. The second is switched (RAP) and is powered when the ignition is engaged by the engine isn't running and turn off after you open the door or a certain amount of time elapses. Think of something like your car radio or overhead lights that turn on after turning off your engine and remain on for maybe a minute or two or until you open a door. The third type is unswitched where power is supplied all the time. In order to figure out what fuses are provided by these types of power you need to cut a fuse in half.
 
-{{< img src="sp7.webp" alt="Fuse testing" >}}
+{{< image src="sp7.webp" caption="Fuse testing" >}}
 
 Cutting a fuse in half will give you a simple tool that can tell you if either side of fuse is energized or not. Fair warning that you will need a multimeter to help out here. Be aware that each fuse rail will have a negative side that will show no electrical charge in any state. If you see that behavior just keep a note of it since it is important later for correctly orientating the add-a-fuse tap. By taking this mangled fuse and plugging it into each fuse rail while the engine is completely off we can identify which fuses have unswitched power.  For this application you don't want to use those because it will needlessly drain your power when the vehicle is off. Further isolation with the ignition enabled but the engine still off can show us the switched (RAP) powered fuses. Lastly, with the engine running we can see which fuses are powered by purely switched power.
 
 ### Tap orientation
 
-{{< img src="sp9.webp" alt="Tap Orientation" >}}
+{{< image src="sp9.webp" caption="Tap orientation is important" >}}
 
 If during the course of your testing you found that some sides of fuses were completely dead you can use this critical information to correctly orient your add-a-fuse circuit taps. The internal circuity of an add-a-fuse requires that the prong on the opposite side of the wire is energized while the prong on the closer side is connected to your negative. If the add-a-fuse is plugged in backwards you essentially lose the protection of the fuse. In a previous image you can see me testing with a multimeter with a fuse cut in half. The output of 13.95V on the right hand side rail demonstrates that it is energized. Based on that information we can safely orient the add-a-fuse with the cable exiting the left side as shown in the above image.
 

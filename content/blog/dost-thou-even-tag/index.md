@@ -2,7 +2,7 @@
 title: "Dost Thou Even Tag?"
 date: "2022-07-16"
 description: "You should probably stop tagging companies in your social media posts"
-tags: ['social-media','value_2']
+tags: ['social-media']
 ---
 
 The Instagram overlanding (off-roading) community was scolded in late 2021. I've been thinking about it since it happened. It caused quite a hullabaloo at the time and there was a brief period of drama. The source was what some saw as a chronic style of behavior in perpetuating a cycle of advertising self-exploitation. The practices of prominent community accounts were called out directly as setting bad examples that trickled down to less known members trying to make a name for themselves. For a community usually oriented around beautiful outdoor pictures and aggressively equipped vehicles, it was an unusual flare up of drama. However, it was well a deserved gut check for the blossoming overlanding community. This brand new hobby has grown exponentially over the past few years. The ask was simple. In order to fix the problem we simply had to adhere to a simple request:
@@ -15,7 +15,7 @@ This call to action was made by an account with a relatively small amount of fol
 
 In order to understand Mr. Resatka's request, it would be helpful to draw out the style of posts among several popular Instagram accounts in the overlanding community. Picture a rugged sport utility vehicle traversing a pristine landscape. The vehicle is aggressively geared and visually boasts that any terrain could be easily conquered. It could be the digital incarnation of a perfect vehicle configuration that would provide the most memorable outdoor trip of your life. Tens of thousands of dollars in extra modifications ranging from tires, suspension, lights, steel fabricated bumpers, in-vehicle cabinetry, communication antennas, multiple electronic screens filling the driver's seat like a fighter jet, and an incredible variety of others you might not even know exist yet (but that you'll want once you see).
 
-{{< img src="fearless-4r.webp" alt="Example Instagram post with tagging" >}}
+{{< image src="fearless-4r.webp" caption="Example Instagram post with tagging" >}}
 
 Consider a person brand new to the hobby of overlanding encountering this epic post from a prominent community member with ten of thousands of followers[^3]. When you pick up a new hobby the variety of choices are overwhelming. Which proven products are the best suited to accomplish what you want to do? Seeking guidance, new joiners frequently look to these popular social media accounts within the hobby to inspire or guide them. This in turn incentivizes companies to sponsor those popular accounts in order to gain the best advertising.
 
@@ -27,7 +27,7 @@ I will be fair in acknowledging that this strained relationship is not isolated 
 
 This relationship is also problematic because it ignores the same historical exchange between parties that was outlined earlier. Sure, the airline company might pay out a small few hundred dollar fee to these individuals that most consider adequate. However, consider the millions of dollars spent on an advertisement campaign on a global level. That picture you took in Kauai could be used across social media campaigns, billboards, advertisement posters, websites, company blog posts, commercials, flyers, and whatever other advertising mediums I left out. The small fee you were awarded now seems rather inadequate based on how much this company has spread your image around. You might see your compensation alternatively through the lens of wide international exposure for your social media presence. From this perspective it would be wise to somehow quantify your dollar-to-new-follower ratio that you find acceptable. If you were to get an extra 500-2,000 followers from your picture making it around the world would you find that an acceptable reward?
 
-{{< img src="gun-rnr.webp" alt="Example Instagram post with tagging from gun.rnr" >}}
+{{< image src="gun-rnr.webp" caption="Example Instagram post with tagging from @gun.rnr" >}}
 
 The nascent overlanding industry depends on people finding this an acceptable reward. I have seen the behavior normalized with social media campaigns that ask all to use tag #xyz in order to be featured in their social media feed. With tens of thousands of followers this is enticing to many people. Not only does this fast track submissions directly to the company it also sidesteps the entire process of negotiating any sort of fair reward exchange between the submitter and the company. In absolute legal terms, this behavior is illegal, as the companies are relying on the social media tag #xyz in order to determine copyright licensing and redistribution. Consider a world famous artist publishing their work but include an extra #xyz tag on their post. Would that give a commercial business the copyright permission to redistribute that artist's piece of work as they saw fit? Absolutely not, but such behavior is now considered normal by many overlanding social media campaigns.
 

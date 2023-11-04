@@ -2,9 +2,9 @@
 title: "Garage Innovators"
 date: "2022-11-12"
 description: "Small Businesses that Make Custom 5th Gen 4Runner Products - Mad Scientists or Trailer Blazers? How they Turned their Ideas into Reality"
+tags: ['4runner']
 ---
 
-> **Note**
 >
 > This article originally [appeared on Trail4Runner.com](https://trail4runner.com/2022/12/13/small-businesses-start-ups-5th-gen-4runner/) on December 13, 2022. All images are owned by the respective individuals.
 
@@ -22,7 +22,7 @@ To help others that are on this journey, we asked these inventors for any insigh
 
 ## 1. [Lab Ops Gear Dash Mount](https://www.instagram.com/labopsgear/) by John
 
-{{< img src="labops-dashmount-4.webp" alt="labops-dashmount-4" >}}
+{{< image src="labops-dashmount-4.webp" caption="Early version of a 3D printed Labops dashmount" >}}
 
 Our first product is a very subtle dashboard mount, which looks incredibly OEM+. This was entirely the goal of the inventor, John, and his company, [LabOps Gear, maker of the non-drill dash mount](https://trail4runner.com/2022/11/28/labops-gear-dash-mount-v2-review-5th-gen-4runner/).
 
@@ -32,13 +32,13 @@ Through word of mouth, his product became a hot commodity. John bought two more 
 
 Transitioning from a 3D printed mount to injection molded introduced a variety of engineering issues. John had to learn about injection flow patterns and a variety of other hurdles to overcome. In the end, changing over to an injection molded model was better since it had more structural integrity despite having less width in certain parts of the mount.
 
-{{< img src="labops-dashmount-1.webp" alt="labops-dashmount-1" >}}
+{{< image src="labops-dashmount-1.webp" caption="Injection molded compared to 3D printed" >}}
 
 John, who has a Ph.D. in Biochemistry, is no stranger to the prototyping and engineering process of developing a solution. However, much of the work involved with designing the dashboard mount in CAD software was entirely new to him.
 
 His only regret was not starting with professional CAD software at the beginning. After transitioning from freeware CAD software he had to re-learn all of the fundamentals again, which took a significant amount of time. Professional CAD software is by no means cheap but there might be alternatives available such as education discounts or classes at your local community college that come with a software license.
 
-{{< img src="labops-dashmount-5.webp" alt="labops-dashmount-5" >}}
+{{< image src="labops-dashmount-5.webp" caption="3D printing a prototype" >}}
 
 Being a new vendor in the overlanding community has been surprisingly pleasant for John. He shared that there has been a general willingness to accept new products and ideas. In addition, people have been incredibly patient and tolerant of delays while John and LabOps Gear have grown and adapted to the higher product demand; all while transitioning from a 3D printed version to an injection-molded dashboard mount.
 
@@ -46,7 +46,7 @@ John said he attributed this to the innate quality of people who enjoy the outdo
 
 ## 2. [Extended Fuse Cover](https://www.instagram.com/4runner.tx/) by Minh
 
-{{< img src="extended-fuse-cover-6.webp" alt="extended-fuse-cover-6" >}}
+{{< image src="extended-fuse-cover-6.webp" caption="The Extended Fuse Cover accomodates extra room for many 4Runner electrical modification connections" >}}
 
 Many of our 4Runners have enough added modifications to make our cabin fuse box a delicious spaghetti bowl of electrical taps, splices, and add-a-fuses.
 
@@ -54,17 +54,17 @@ The resulting blob of wires usually prevents the OEM fuse cover from fitting bac
 
 While trying to develop an improved version, he tucked away his OEM cover with one of the prototypes. At this moment he realized mounting the OEM cover directly onto the extended cover was the best way to keep track of it and display the relevant fuse diagram.
 
-{{< img src="extended-fuse-cover-4.webp" alt="extended-fuse-cover-4" >}}
+{{< image src="extended-fuse-cover-4.webp" caption="Early challenges with 3D printing" >}}
 
 Combining the OEM and extended fuse covers together forced him to redraft his first prototype almost completely. Minh shared that he kind of regrets spending so much time on the first version since it was scrapped entirely anyway. Hindsight is 20/20 and had Minh not spent so much time on that first draft, who knows if he would have had the same realization.
 
-{{< img src="extended-fuse-cover-1.webp" alt="extended-fuse-cover-1" >}}
+{{< image src="extended-fuse-cover-1.webp" caption="Minh's 3D printing station" >}}
 
 Minh is rather humble and was skeptical if a single invention made him actually an inventor. However, if you keep up with his Instagram or TikTok you can see the level of tinkering, innovation, and prototyping transparency easily puts him in this category.
 
 His discussions about the virtues of PETG plastics over ABS and PLA for rigidity, durability, and heat resistance are both fascinating and educational. It is rare to see someone so open to publicly sharing their design issues and work process while engaging directly in long conversations with strangers.
 
-{{< img src="extended-fuse-cover-5.webp" alt="extended-fuse-cover-5" >}}
+{{< image src="extended-fuse-cover-5.webp" caption="Perserverance is invaluable in the face of technical challenges" >}}
 
 To carry on a theme, Minh was also direct about being resilient and open during the development process. After the major re-work of his first 2010-2019 extended fuse cover prototype, Minh went through a further 56 revisions, 12 of which were major design changes.
 
@@ -72,7 +72,7 @@ Additionally, there were some close to Minh who shared skepticism about spending
 
 ## 3. [Wifey Air System](https://sponsoredbywifey.com/2018/01/08/arb-dual-air-compressor-system/) by Al
 
-{{< img src="wifey-air-system-1.webp" alt="wifey-air-system-1" >}}
+{{< image src="wifey-air-system-1.webp" caption="The Wifey Air System" >}}
 
 While Al enjoys wheelin’ with his friends almost every weekend, he didn’t particularly enjoy the task of airing up and down. As a result, he bought one of those four-way hoses to do it more efficiently. He shared that his first time using it was also his last.
 
@@ -84,25 +84,25 @@ The first week was a flurry of online orders for fittings, hoses, and quick conn
 
 The result was a solid first prototype that even lasted until he later sold his 4Runner. The inaugural Wifey Air System had everyone gathering around his 4Runner to see it working.
 
-{{< img src="wifey-air-system-4.webp" alt="wifey-air-system-4" >}}
+{{< image src="wifey-air-system-4.webp" caption="The initial Wifey Air System setup" >}}
 
 Al wasn’t in it for the money. He had just built an awesome system that was easy to use and tucked neatly away under the vehicle; so why not share it with everyone? He did just that and you can even see a full parts list on some of his older YouTube videos. Even with a full parts list, there were a few people who didn’t have the time or interest in assembling it themselves. Al built those people kits on occasion but his overall order volume wasn’t high.
 
 It wasn’t until a prominent fabrication company reached out and offered to build his built-in air system as a purchasable kit that Al started getting serious. At that time, he had noticed a few exact clones of his air system being offered on the market. If people wanted to pay for a pre-made kit with his publicly available parts list, then why couldn’t he make some money too?
 
-{{< img src="wifey-air-system-3.webp" alt="wifey-air-system-3" >}}
+{{< image src="wifey-air-system-3.webp" caption="A later iteration of the Wifey Air System" >}}
 
 The evolution of the Wifey Air System from open source to being offered as a product is a testament to consumer demand. There is a distinct possibility of sharing your secret recipe with the world while still being able to offer a product. The real question is if Al is still sponsored by wifey or if this built-in air system has started to cover the bills.
 
 ## 4. [SD Off Road Mount](https://www.instagram.com/sdoffroadmt/) by Derek
 
-{{< img src="sdoffroad-mt-3.webp" alt="sdoffroad-mt-3" >}}
+{{< image src="sdoffroad-mt-3.webp" caption="A brilliant aluminum plate to consolidate several systems in your 4Runner's engine bay" >}}
 
 When I was looking to start the foundation of my 4Runner’s electrical modifications last year, there were a ton of options for mounting a solid-state switch in my engine bay.
 
 I was pretty greedy and wanted my onboard air compressor, switches, fuse block, and bus bar to all fit together on the same tray. However, I couldn’t find a product that had that much real estate. Sure, there were many that combined a few of those components together but none I saw that did everything. This is especially true for the Switch Pros’ requirement of being mounted vertically for warranty purposes.
 
-{{< img src="sdoffroad-mt-2.webp" alt="sdoffroad-mt-2" >}}
+{{< image src="sdoffroad-mt-2.webp" caption="SD Off Road Mount installed and being wired" >}}
 
 It took me a while, but I eventually came across the SD Offroad Mount. Operating directly out of his Instagram page rather than a website is a bit unorthodox. However, it makes sense for a single man with a garage workshop.
 

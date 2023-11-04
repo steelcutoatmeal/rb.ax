@@ -2,6 +2,7 @@
 title: "Broadwater Meadow"
 date: "2021-09-06"
 description: "My holy quest for grass."
+tags: ['camping']
 ---
 
 After the dirty kerfuffle earlier in the summer I decided to pursue some luxury camping conditions. Obviously, the great motivation here was to reduce the pounds of dirt my dogs could absorb into their fur. Another was to solicit my wife into the great outdoors with an easy and enjoyable camping experience. I always feel better blundering around and making obvious mistakes when I have my significant other along with me to cushion the blow to my ego when things inevitably go wrong. If I could just find the right camping location I might just might protect the dogs from themselves and provide my wife with another positive outdoor experience.
@@ -12,7 +13,7 @@ Its surprising how close Broadwater Meadow is to Highway 150 without being flood
 
 On a Sunday late afternoon in early September we were able to claim a decent site for camping. Probably the best location is directly across the meadow on the south end, which you can see in the photograph above. That site is secluded a bit off FR416 whereas the rest of the spots along the meadow perimeter are within 20 feet of the road. So you might have people rolling by (or blazing like a bat out of Hell in the case of our side-by-side friends) your camp at any time of the day or night. Additionally, the view on the south site is better as you are looking north by north east to nearby Mount Cardwell. While not as epic as the view in nearby Christmas Meadow, it still provides for a natural visual endpoint while looking across the meadow rather than the muted hill you see above. Despite all the accolades for the south site, any spot around the meadow is great and will give you a relaxing experience in a semi-alpine environment.
 
-{{< img src="broadwater-meadow-stream.webp" alt="Broadwater Meadow in the Afternoon" >}}
+{{< image src="broadwater-meadow-stream.webp" caption="Broadwater Meadow in the Afternoon" >}}
 
 For dinner, rather than my normal freeze-dried dinner, I was blessed with a fine car camping dining experience. I am normally rather spartan with my food choices and embrace convenience and health rather than elegance and taste. Its not that I don't enjoy finely prepared food but rather that I think the effort required is not warranted on a consistent and or daily basis. I have been known to spend over 12 hours smoking pork ribs yet this is not everyday. Alternatively, my wife will consistently create culinary masterpieces out of seemingly nothing if the mood strikes just right. Take the following example where all these conditions met together perfectly to see what she is capable of creating.
 

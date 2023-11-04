@@ -2,6 +2,7 @@
 title: "Installing the C4 Fabrication Overland Bumper on a 2021 4Runner"
 date: "2022-04-24"
 description: "Protecting Your Front End and Increasing Approach Angles"
+tags: ['4runner']
 ---
 
 As a fair warning to readers, this guide is not meant as a step by step instruction replacement from C4 Fabrication themselves[^1] or professional Toyota mechanics[^2]. I sincerely recommend consulting the product's installation guide as a source of definitive information and a variety of community reviews to get a more encompassing image of a potential future project. Please consider this article as more of a personal review and collection of tips for the installation of this product.
@@ -39,7 +40,7 @@ I decided to purchase the C4 Fabrication Overland bumper with full headlight loo
 
 Since C4 Fabrication does not powder coat any of their products I actually shipped the bumper directly to a local company rather than to my house. This saves the hassle of a double trip to and from your house to the powder coating company. After I got the bumper back I inspected the entire surface area for any missed sections. There were a few spots that I could tell were used to hang the bumper during powder coating application and subsequently were not properly covered. It was an easy fix to do a couple coats of spray paint on those spots to discourage any rust from starting. There are lot of nooks and crannies on this bumper that aren't easily reachable once installed so this step is key before installing.
 
-{{< img src="bumper-prep.webp" alt="Installing Lights and Winch on New Bumper" >}}
+{{< image src="bumper-prep.webp" caption="Installing lights and winch on new bumper" >}}
 
 I set up my bumper on a rubber pad in my garage with a floor jack holding up the front to somewhat mimic the orientation of being installed. Having the bumper semi-upright helped a lot when aiming the thirty inch light bar and fog lights. While the bumper wasn't perfectly level I simply went off the winch bottom mounting plate to get a sense of what a true ninety degree angle would look like after installation. Getting the lights on the bumper was very straightforward and the only time consuming portion was simply getting the light angle as correct as I thought possible. There are some slots built into the bumper that allow for interior access even after installation but the angles for applying tools to bolts are not very forgiving. So it is best to get things right before rather than depending on afterward.
 
@@ -49,7 +50,7 @@ For the positioning of the winch I regret not positioning it closer to the vehic
 
 Before removing anything from the 4Runner I measured and marked on the bumper for where it would be required to later cut. Describing the locations and points of measurements with words would be rather difficult so I would strongly encourage watching C4's video or Timmy the Toolman's. Keep in mind that the general goal of this step is simply to have a horizontal flat cut through your plastic bumper with about a half inch gap between the plastic bumper and the new steel bumper.
 
-{{< img src="cutting-measure.webp" alt="Measuring before Cutting" >}}
+{{< image src="cutting-measure.webp" caption="Measuring before cutting" >}}
 
 ### TSS Sensor Relocation
 
@@ -57,7 +58,7 @@ One thing to note is that my 4Runner had a slightly different center mesh setup 
 
 There was no new location to mount the TSS sensor so I simply zip-tied it back to the plastic bumper at reasonable angle. I chose a position above the bulk of the steel in the new bumper but lower than the headlight loops. The goal was to have the sensor have some sort of unobstructed *view* in front of the vehicle. I have had a lot of problems with the sensor erroring out while driving in this rudimentary location and thought I would be forever plagued with these notifications in the driver's LED screen.
 
-{{< img src="tss-oem-mount.webp" alt="4Runner TSS OEM Mount" >}}
+{{< image src="tss-oem-mount.webp" caption="4Runner TSS OEM mount" >}}
 
 However, during the summer of 2022, C4 Fabrication began offering a TSS relocation bracket[^5] that I intend on purchasing in the near future. I can't vouch for how successful the bracket would make TSS perform but I do know that TSS can be re-calibrated if you take it into a Toyota Dealership. While I never expect to regain a factory performance of TSS I certainly hope one day I can have it perform at least reasonably well enough to stop constantly erroring and disabling itself.
 
@@ -69,19 +70,19 @@ Once I had my lines marked on the plastic portion of the bumper I began removing
 
 Out of all the steps of installing this new C4 Fabrication Overland bumper the power steering portion is what intimidated me the most. I can easily bolt brackets here and there or custom wire things with specialized deutsch connectors but messing with the factory power steering lines took me out of my comfort zone. The premise of installing this third party power steering cooling reservoir is to achieve a greater clearance for the new bumper to sit tighter to your vehicle. Without it I would be faced with an aluminum line directly in line with where the winch sits on the new steel bumper. In an effort to avoid performing this step I looked around at other people's installations where they didn't add the new power steering reservoir. I only found a few examples but the amount of bending required in the stock power steering lines gave me some hesitancy. Would I rather have a third party power steering cooling reservoir with proven performance or push my OEM power steering aluminum lines to their limit? Ultimately, I decided to leave my comfort zone and install the new reservoir.
 
-{{< img src="4runner-naked.webp" alt="4Runner Without Front Bumper" >}}
+{{< image src="4runner-naked.webp" caption="4Runner without front bumper" >}}
 
 After removing the bulk of the stock bumper you can see the power steering line going across in front of the radiator and the subsequent need to have it relocated. I'm not sure why the Toyota 4Runner has so much open space in the front area but the designing engineers certainly embraced all the open area to seemingly run the power steering cooling line as far out from the radiator as possible. Perhaps there are certain lengths required for the air dams to perform effectively that made the stock bumper have so much room in the front but I really don't know.
 
 Removing the stock power steering cooling line involves jettisoning all the metal portions while keeping the rubber parts that are located more within the interior of the engine bay. These lines are of course filled with power steering fluid so draining them is a requirement. The way to perform this drainage in the most controlled manner is to locate the L sections of the metal lines on either side of bumper. Approaching one side first you simply undo the metal line at that junction and thereafter use a flathead screwdriver inserted into the line to leverage bending it so that it points downward. The bulk of the fluid should drain with this method and it should be repeated on both sides. Keep in mind that to eek out the last little bits of fluid you can turn the vehicle's steering wheel back and forth to work liquid through the line. The car should not be turned on during this step to avoid damaging the power steering fluid pump.
 
-{{< img src="powersteering-drain.webp" alt="Removing Power Steering Lines and Fluid" >}}
+{{< image src="powersteering-drain.webp" caption="Removing power steering Lines and fluid" >}}
 
 After the metal lines are remove and the fluid is drained you can begin the installation of the new power steeling cooling reservoir. I located the reservoir to the lower left of the radiator if you were facing the vehicle. The location was fine with the provided power steering rubber hose replacements. The two foot hose went out from the top of the reservoir up to the left to meet directly with the main vehicle reservoir. The other hose was slightly longer at forty-eight inches and came out of the bottom of the reservoir bending over the top and going across the radiator to the right to meet up with the old location of the power steering line location to reform the closed loop. Getting the hoses onto the reservoir apparatus is greatly helped by adding a little power steering fluid coating to lubricate the hose coupling. Additionally, I took cut up sections of the old hose to create small protective rubber sleeves for the new hose at points where abrasion would become a problem.
 
 During the preparation stage for this project I looked up various types of power steering fluids that were compatible with the 4Runner. There were quite a variety of results and available products that were kind of overwhelming. To avoid any mishap by introducing a non-compatible fluid I simply visited my local Toyota Dealership. They were able to lookup the exact fluid I needed and also the exact number of ounces required to completely refill the new cooling loop.
 
-{{< img src="new-powersteering-radiator.webp" alt="New Power Steering Radiator" >}}
+{{< image src="new-powersteering-radiator.webp" caption="New power steering radiator" >}}
 
 Adding power steering fluid back into the vehicle is easy but requires a bit of massaging. While the 4Runner was still off I poured in enough to hit the fill line in the main engine bay power steering reservoir. After I hit that line I turned the steering wheel back and forth to work liquid into the cooling line. This might make the reservoir *gurgle* a bit and splash a bit of power steering fluid our if the cap isn't full covering the top opening. Repeating this process a few times until I hit the fill line I finally turned the vehicle on and repeated the same process with the help of the power steering fluid pump helping out. A final tip would be to check the power steering level after driving around the block for a bit and also after your next longer drive over fifty or one-hundred miles.
 
@@ -93,7 +94,7 @@ Up until this point I had been only modifying the internals of my 4Runner and it
 
 Ultimately going with the angle grinder proved effective but there were a few caveats during cutting that I wanted to note. Due to the round shape of the grinder blade it became hard to approach the indents of the plastic bumper. In some cases I had to approach from the front and back in multiple phases in order to get the cut fully into the bumper. Another issue I experienced was that if I went too slow during the cut the angle grinder blade would heat up considerably and melt parts of the plastic bumper. This would cause some plastic to collect into clumps along the edge of the reveal. Breaking them off was simple and easy but in some cases it would chip the paint in small bits. I probably wouldn't have had this heating problem with a reciprocating saw but I certainly got more control by cutting with the angle grinder. To clean up the edge after cutting simply involves using a file along the rough parts to bring everything absolutely even and smooth.
 
-{{< img src="bumper-trim.webp" alt="Plastic Bumper after Trimming" >}}
+{{< image src="bumper-trim.webp" caption="Plastic bumper after trimming" >}}
 
 After completing the cut of the bumper you might consider adding some sort of edge trim[^7] to the bottom of the plastic bumper. The sort with a heat activated adhesive would work best to stay in place. This could help discourage any paint chipping or wear on the plastic edging now that it has been damaged by aftermarket cutting. I actually did not add any edge trimming but I plan to in the near future to specifically avoid any further paint chipping at the plastic bumper edges.
 
@@ -103,7 +104,7 @@ Getting the bumper up onto my 4Runner definitely required a second pair of hands
 
 Once all the main and supporting bolts are in place you want to make sure the new steel bumper is balanced across both sides of the vehicle and the gap between itself and the plastic bumper is equal at all parts. The guideline from C4 was to have about a half inch gap between the two in order to allow for flexing while off-roading and other unique vehicle situations. A half inch might look a bit too much when you are near the vehicle but if you step back a bit it all blends in together and is less obvious. I went for a gap slightly smaller than a half inch and I can already see some rubbing on either side of the steel bumper from coming into contact with the plastic bumper trim above.
 
-{{< img src="mudflap-trimming.webp" alt="Trimming the Mudflaps" >}}
+{{< image src="mudflap-trimming.webp" caption="Trimming the mudflaps" >}}
 
 I started trimming the mudflap area prior to mounting the new steel bumper but only finished afterwards. This was due to seeing the profile of the bumper in comparison to the level of trimming I had been doing on the mudflap area. I also added a few zip ties in key spots to keep the plastic from flopping around. This isn't specifically needed since the plastic is so rigid but does help increase the coverage of the mudflaps now that my tires were fully exposed. I am sure things will get incredibly muddy in that area of the vehicle so keeping some level of mudflap coverage is helpful, especially when preventing the elements from getting into your engine bay or near semi-critical components.
 
