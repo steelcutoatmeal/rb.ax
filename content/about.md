@@ -1,5 +1,6 @@
 ---
-title: 
+title:
+showthedate: false
 ---
 
 So, uh, you already read my elevator pitch on the home page but I guess you want to know more. I live in the Salt Lake City, Utah area with my wife and two dogs. If I'm not working I am usually trying to entertain 1 or more of the previously mentioned mammals.

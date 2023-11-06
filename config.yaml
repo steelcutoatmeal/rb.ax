@@ -18,10 +18,12 @@ taxonomies:
   tag: tags
 
 permalinks:
-  blog: /:filename
+  blog: /blog/:slug
+  pages: /:slug
+  photos: /:filename
 
 params:
-  description: The homepage of network engineer and documentarian Ryan Bagley — internet networks, running, photography, and adventure sharing.
+  description: The homepage of network engineer and documentarian Ryan Bagley — internet networks, mountain running, writing, and documenting adventures and learning.
   subtitle: 
   author: Ryan Bagley
   copyright: Ryan Bagley

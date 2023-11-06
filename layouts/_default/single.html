@@ -1,6 +1,29 @@
 {{ partial "header.html" . }}
+{{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
+{{ with $img }}
+{{ $smallw := $img.Resize "475x" }}
+{{ $mediumw := $img.Resize "720x" }}
+{{ $largew := $img.Resize "1440x" }}
+<img 
+    loading="eager"
+    srcset="{{ $smallw.RelPermalink }} 475w,
+            {{ $mediumw.RelPermalink }} 720w,
+            {{ $largew.RelPermalink }} 1440w"
+    sizes="(max-width: 634px) 475px,
+           (max-width: 1633px) 720px,
+           (min-width: 1634px) 1440px"
+    src="{{ $mediumw.RelPermalink }}"
+    alt="{{ $img.Title }}" 
+    width="{{ $img.Width }}"
+    height="{{ $img.Height }}"/>
+{{ end }}
 <h1>{{ .Title }}</h1>
-
+<p><i>{{ .Params.description }}</i></p>
+<p>
+{{ if .Params.showthedate | default "true" }}
+<time itemprop="datePublished" datetime="{{ dateFormat " 2006-01-02" .Date }}">{{ dateFormat "January 1, 2006" .Date}}
+{{ end }}
+</p>
 {{ .Content | replaceRE "(<h[1-6]\\sid=\"([^\"]+)\"\\s?>)(.+)(</h[1-6]+>)" "${1}<a href=\"#${2}\">${3}</a>${4}" | safeHTML }}
 
 {{ partial "footer.html" . }} 
