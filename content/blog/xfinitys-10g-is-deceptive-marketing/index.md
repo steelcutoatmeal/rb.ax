@@ -2,7 +2,7 @@
 title: "Xfinity's 10G is Deceptive Marketing"
 date: "2023-06-17"
 description: "The cable industry's 10G brand means nothing."
-tags: ['networking']
+tags: ['networking', 'technology']
 ---
 
 Super Bowl LVII had a 60 second commercial that tried to dupe the American public. Marketing their new 10G service along with the achievement of getting a man on the moon was a pairing that wouldn't be missed by anyone. Somehow we had skipped from 5G past 6G, 7G, 8G, and even 9G! What an engineering feat to be praised along with the moon landing.

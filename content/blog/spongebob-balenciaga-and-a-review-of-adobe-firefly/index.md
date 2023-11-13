@@ -2,6 +2,7 @@
 title: "SpongeBob Balenciaga and a Review of Adobe Firefly (Beta)"
 date: "2023-04-13"
 description: "The latest AI image generation application, some thoughts about future AI game generation, and the dawn of SpongeBob by Balenciaga"
+tags: ['technology']
 ---
 
 After the onslaught of AI driven engines in early 2023 I was instantly intrigued with the generative capabilities of image generation. While ChatGPT is a monumental milestone in AI progress it does not carry the same spectacle as algorithmically generated images.

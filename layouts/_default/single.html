@@ -21,7 +21,7 @@
 <p><i>{{ .Params.description }}</i></p>
 <p>
 {{ if .Params.showthedate | default "true" }}
-<time itemprop="datePublished" datetime="{{ dateFormat " 2006-01-02" .Date }}">{{ dateFormat "January 1, 2006" .Date}}
+<time itemprop="datePublished" datetime="{{ dateFormat " 2006-01-02" .Date }}">{{ dateFormat "January 2, 2006" .Date}}
 {{ end }}
 </p>
 {{ .Content | replaceRE "(<h[1-6]\\sid=\"([^\"]+)\"\\s?>)(.+)(</h[1-6]+>)" "${1}<a href=\"#${2}\">${3}</a>${4}" | safeHTML }}

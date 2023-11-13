@@ -139,6 +139,11 @@ a, a:visited {
 .terms {
   column-count: 2;
 }
+a.footnote-ref {
+    color: #ed0c14;
+    text-decoration: none;
+    font-weight: bold;
+}
 a:focus, a:hover, ::selection {
     background-color: #000000;
     color: #ffffff;
