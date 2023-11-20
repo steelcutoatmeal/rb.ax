@@ -23,7 +23,7 @@ permalinks:
   photos: /:filename
 
 params:
-  description: The homepage of network engineer and documentarian Ryan Bagley — internet networking, mountain running, documenting, and adventures.
+  description: The homepage of network engineer and documentarian Ryan Bagley — enterprise networking, trail running, travel, and documenting it all.
   subtitle: 
   author: Ryan Bagley
   copyright: Ryan Bagley

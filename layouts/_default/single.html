@@ -18,7 +18,7 @@
     height="{{ $img.Height }}"/>
 {{ end }}
 <h1>{{ .Title }}</h1>
-<p><i>{{ .Params.description }}</i></p>
+<i><p class="description">{{ .Params.description }} </p></i>
 <p>
 {{ if .Params.showthedate | default "true" }}
 <time itemprop="datePublished" datetime="{{ dateFormat " 2006-01-02" .Date }}">{{ dateFormat "January 2, 2006" .Date}}
