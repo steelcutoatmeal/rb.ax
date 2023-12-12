@@ -120,6 +120,10 @@ a.footnote-ref {
   text-decoration: none;
   font-weight: bold;
 }
+div.footnotes {
+  font-size: clamp(0.9rem, calc(0.643rem + 0.549vw), 1.5rem);
+  line-height: 1.2;
+}
 a:focus, a:hover, ::selection {
     background-color: #000000;
     color: #ffffff;
@@ -186,5 +190,5 @@ figcaption {
   width: auto;
 }
 p.description {
-  margin-bottom: -16px;
+  //margin-bottom: -16px;
 }
