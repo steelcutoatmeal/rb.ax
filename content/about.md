@@ -7,7 +7,9 @@ So, uh, you already read my elevator pitch on the home page but I guess you want
 
 My childhood was spread across the United States but I was fortunate enough to have parents that valued being outdoors. This usually resulted in several camping trips each year. The impressions about being in nature certainly stayed with me and I have been trying to reintegrate that into my life as an adult. Much of the content I draft on this site is driven by my literary and visual appreciation of the American West.
 
-If you wanted to reach out to me, email is probably best. Just use `rya//n@ba//gley.io` and remove the 4 slashes. Other communities I regularly participate in are listed below. Although, I am not really active on the last 3 but keep them around for who knows what.
+## Contact
+
+If you wanted to reach out to me, email is probably best. Just use `r~@r~~b.~ax` and remove the four tildes. Other communities I regularly participate in are listed below. Although, I am not really active on the last 3 but keep them around for who knows what.
 
 * [Strava](https://www.strava.com/athletes/ryanbagley)
 * [Steam](https://steamcommunity.com/profiles/76561197965221693/)
@@ -16,5 +18,7 @@ If you wanted to reach out to me, email is probably best. Just use `rya//n@ba//g
 * [Instagram](https://www.instagram.com/tcp.rst/)
 * [LinkedIn](www.linkedin.com/in/ryan-bagley-a16979100)
 * [Telegram](t.me/ryanbagley)
+
+## Categories
 
 {{< tagcloud >}}

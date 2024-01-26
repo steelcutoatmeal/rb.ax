@@ -1,4 +1,5 @@
 /* CSS */
+
 body {
   font: 1.25rem/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   text-rendering: optimizeLegibility;
@@ -11,9 +12,10 @@ body {
     margin-bottom: 0px;
     margin-left: 1rem;
   color: #333;
+  background-color: #fffff8;
   font-size: clamp(1rem, calc(0.657rem + 0.731vw), 1.8rem);
 }
-h1,h2, h3, h4, h5, b, strong {
+h1, h2, h3, h4, h5, b, strong {
   //font-size: inherit;
   font-weight: bold;
   line-height: 1;
@@ -56,7 +58,7 @@ header a {
 }
 .title {
   padding-left: 0rem;
-  font-weight: bold;
+  //font-weight: bold;
 }
 article {
   padding-top: 1rem;
@@ -95,7 +97,7 @@ code {
 }
 time {
   font-variant-numeric: tabular-nums;
-  padding-right: 1rem;
+  padding-right: 1.5rem;
   white-space: nowrap;
 }
 blockquote {
@@ -190,5 +192,5 @@ figcaption {
   width: auto;
 }
 p.description {
-  //margin-bottom: -16px;
+  font-style: italic;
 }

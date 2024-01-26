@@ -2,10 +2,6 @@
 title: Ryan Bagley
 ---
 
-Hello, I'm Ryan Bagley. I'm a [network engineer](https://www.indeed.com/career-advice/finding-a-job/what-is-a-network-engineer), documentarian, and hobbyist writer living in the American West.
+Hello, I'm Ryan Bagley. I'm a [documentarian](/tags/), [network engineer](/tags/networking/), and [trail runner](/tags/running/) living in the American West. I enjoy sharing my adventures and learning process. The result is this little blog.
 
-I enjoy documenting my adventures and learning process. There is a lot to see in the world but I appreciate the ability to share the little bits I have experienced.
-
-I work at [Goldman Sachs](https://www.goldmansachs.com/), which sometimes eats up a lot of my free time. But that is frequently my own doing since I'm part of an awesome team and work on fascinating projects.
-
-If you enjoy thoughtful articles and some neat pictures from a guy running around in the wilderness then check out my [blog](/blog) or subscribe to the [RSS](/atom.xml) feed.
+I work at [Goldman Sachs](https://www.goldmansachs.com/), which eats up a lot of my free time but I'm part of a great team and work on fascinating projects. For an unlimited supply of neat pictures and average writing then check out the [blog](/blog/) or [RSS](/atom.xml) feed.

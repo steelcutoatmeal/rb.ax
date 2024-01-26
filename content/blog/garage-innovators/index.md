@@ -6,7 +6,7 @@ tags: ['4runner']
 ---
 
 >
-> This article originally [appeared on Trail4Runner.com](https://trail4runner.com/2022/12/13/small-businesses-start-ups-5th-gen-4runner/) on December 13, 2022. All images are owned by the respective individuals.
+> This article was later published on [Trail4Runner.com](https://trail4runner.com/2022/12/13/small-businesses-start-ups-5th-gen-4runner/) on December 13, 2022. All images are owned by the respective individuals.
 
 Have you ever worked on your 4Runner and an idea for a modification popped into your head? Perhaps something that would make your life easier or solve a unique problem? If so, consider yourself a junior member of the inventor’s club. In this article, we want to highlight five members of this club who went one step further and brought their simple yet effective custom 5th Gen 4Runner products to the community.
 

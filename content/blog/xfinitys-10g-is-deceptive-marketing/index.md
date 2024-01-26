@@ -5,11 +5,11 @@ description: "The cable industry's 10G brand means nothing."
 tags: ['networking', 'technology']
 ---
 
-Super Bowl LVII had a 60 second commercial that tried to dupe the American public. Marketing their new 10G service along with the achievement of getting a man on the moon was a pairing that wouldn't be missed by anyone. Somehow we had skipped from 5G past 6G, 7G, 8G, and even 9G! What an engineering feat to be praised along with the moon landing.
+Super Bowl LVII had a 60 second commercial that tried to dupe the American public. Xfinity marketing their new 10G service along with the achievement of getting a man on the moon was a pairing that wouldn't be missed by anyone. Somehow we had skipped from 5G past 6G, 7G, 8G, and even 9G! What an engineering feat to be praised along with the moon landing.
 
 > ["The next generation 10G network. Only from Xfinity. One giant leap for mankind."](https://www.youtube.com/watch?v=BLQw1u4Oe7k)
 
-Yet the reality of Xfinity's 10G service is a lot more depressingly complicated. The G after the 10 might lead you to believe it is twice as good as your phone's 5G but it isn't even related to cellular connectivity. Also, it isn't another common networking term used to denote gigabit connections. This begs the question, what on earth is 10G even supposed to mean? Did the cable industry just pull a term out of thin air? Well, yes.
+Yet the reality of Xfinity's 10G service is a lot more depressingly complicated. The G after the 10 might lead you to believe it is twice as good as your phone's 5G but it isn't even related to cellular connectivity. Also, it isn't another common networking term used to denote gigabit connections. This begs the question, what on earth is 10G even supposed to mean? Did the cable industry just pull a term out of thin air? Well, yes. 
 
 Per Xfinity, "[The Xfinity 10G Network is the new brand for our next-generation network](https://www.xfinity.com/10g)". Additionally, the R&D lab of the cable industry, CableLabs, simply calls it a "[combination of technologies](https://www.cablelabs.com/insights/10g-the-next-great-leap-in-broadband)". The most exciting admission of absolute vagueness is when Xfinity describes that, "[all our internet plans are powered by the Xfinity 10G Network](https://www.xfinity.com/10g)". So you could have a 1G home internet plan packaged with a 5G phone all on Xfinity's 10G network. Yet each of these three G's refer to different things. Their marketing team couldn't have chosen a more confusing term to dub their new next-generation network.
 
